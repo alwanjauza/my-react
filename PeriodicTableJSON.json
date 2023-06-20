@@ -2102,7 +2102,7 @@
             "phase": "Solid", 
             "source": "https://en.wikipedia.org/wiki/Iridium", 
             "spectral_img": null, 
-            "summary": "Iridium adalah unsur kimia dengan simbol Ir dan nomor atom 77. Logam transisi yang sangat keras, rapuh, berwarna putih keperakan dari golongan platina, iridium umumnya disebut sebagai unsur terpadat kedua (setelah osmium) berdasarkan kerapatan terukur, meskipun perhitungan melibatkan kisi-kisi ruang unsur menunjukkan bahwa iridium lebih padat. Ini juga merupakan logam yang paling tahan korosi, bahkan pada suhu setinggi 2000 \u00b0C. Meskipun hanya garam dan halogen cair tertentu yang bersifat korosif terhadap iridium padat, debu iridium yang terbelah halus jauh lebih reaktif dan mudah terbakar.
+            "summary": "Iridium adalah unsur kimia dengan simbol Ir dan nomor atom 77. Logam transisi yang sangat keras, rapuh, berwarna putih keperakan dari golongan platina, iridium umumnya disebut sebagai unsur terpadat kedua (setelah osmium) berdasarkan kerapatan terukur, meskipun perhitungan melibatkan kisi-kisi ruang unsur menunjukkan bahwa iridium lebih padat. Ini juga merupakan logam yang paling tahan korosi, bahkan pada suhu setinggi 2000 \u00b0C. Meskipun hanya garam dan halogen cair tertentu yang bersifat korosif terhadap iridium padat, debu iridium yang terbelah halus jauh lebih reaktif dan mudah terbakar.",
             "symbol": "Ir", 
             "xpos": 9, 
             "ypos": 6, 
@@ -2160,7 +2160,7 @@
             "phase": "Solid", 
             "source": "https://en.wikipedia.org/wiki/Gold", 
             "spectral_img": null, 
-            "summary": "Emas adalah unsur kimia dengan simbol Au (dari bahasa Latin: aurum) dan nomor atom 79. Dalam bentuknya yang paling murni, emas berwarna kuning cerah, agak kemerahan, padat, lunak, mudah dibentuk, dan ulet. Secara kimiawi, emas adalah logam transisi dan unsur golongan 11. 
+            "summary": "Emas adalah unsur kimia dengan simbol Au (dari bahasa Latin: aurum) dan nomor atom 79. Dalam bentuknya yang paling murni, emas berwarna kuning cerah, agak kemerahan, padat, lunak, mudah dibentuk, dan ulet. Secara kimiawi, emas adalah logam transisi dan unsur golongan 11.",
             "symbol": "Au", 
             "xpos": 11, 
             "ypos": 6, 
@@ -2422,7 +2422,7 @@
             "phase": "Solid", 
             "source": "https://en.wikipedia.org/wiki/Radium", 
             "spectral_img": null, 
-            "summary": "Radium adalah unsur kimia dengan simbol Ra dan nomor atom 88. Radium merupakan unsur keenam dalam golongan 2 tabel periodik, juga dikenal sebagai logam alkali tanahs. Radium murni hampir tidak berwarna, tetapi mudah bergabung dengan nitrogen (bukan oksigen) saat terpapar udara, membentuk lapisan permukaan hitam radium nitrida (Ra3N2).
+            "summary": "Radium adalah unsur kimia dengan simbol Ra dan nomor atom 88. Radium merupakan unsur keenam dalam golongan 2 tabel periodik, juga dikenal sebagai logam alkali tanahs. Radium murni hampir tidak berwarna, tetapi mudah bergabung dengan nitrogen (bukan oksigen) saat terpapar udara, membentuk lapisan permukaan hitam radium nitrida (Ra3N2).",
             "symbol": "Ra", 
             "xpos": 2, 
             "ypos": 7, 
@@ -3325,7 +3325,7 @@
             "summary": "Ooganesson is IUPAC's name for the transactinide element with the atomic number 118 and element symbol Og. It is also known as eka-radon or element 118, and on the periodic table of the elements it is a p-block element and the last one of the 7th period. Oganesson is currently the only synthetic member of group 18.", 
             "symbol": "Og", 
             "xpos": 18, 
-            "ypos": 7, 3
+            "ypos": 7,
             "shells": [
                 8, 
                 18, 

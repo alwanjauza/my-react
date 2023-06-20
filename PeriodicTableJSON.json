@@ -2,7 +2,7 @@
     "elements": [
         {
             "name": "Hydrogen", 
-            "appearance": "colorless gas", 
+            "appearance": "Gas tidak berwarna", 
             "atomic_mass": 1.008, 
             "boil": 20.271, 
             "category": "diatomic nonmetal", 
@@ -17,7 +17,7 @@
             "phase": "Gas", 
             "source": "https://en.wikipedia.org/wiki/Hydrogen", 
             "spectral_img": "https://en.wikipedia.org/wiki/File:Hydrogen_Spectra.jpg", 
-            "summary": "Hydrogen is a chemical element with chemical symbol H and atomic number 1. With an atomic weight of 1.00794 u, hydrogen is the lightest element on the periodic table. Its monatomic form (H) is the most abundant chemical substance in the Universe, constituting roughly 75% of all baryonic mass.", 
+            "summary": "Hydrogen adalah unsur kimia dengan simbol kimia H dan nomor atom 1. Dengan berat atom 1,00794 u, hidrogen merupakan unsur paling ringan pada tabel periodik. Bentuk monoatomiknya (H) adalah zat kimia paling melimpah di alam semesta, menyusun sekitar 75% dari semua massa barionik.", 
             "symbol": "H", 
             "xpos": 1, 
             "ypos": 1, 
